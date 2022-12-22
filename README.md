@@ -9,4 +9,4 @@ Qt is a free and open-source widget toolkit for creating graphical user interfac
 
 3D Triforce Emblem inspired from Legend of Zelda. The entire project was done in classic OpenGL using C++ in QT creator.
 
-
+The object itself consists of lighting and shaders. I have attached QSliders for users to play around with the lighting and angles of the object.
