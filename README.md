@@ -1,12 +1,12 @@
 # Triforce-OpenGL
 
-### Tools Used:
+### Tools Utilized:
 1. QT Creator
 2. OpenGL
 
 ### Introduction
-Qt is a free and open-source widget toolkit for creating graphical user interfaces as well as cross-platform applications that run on various software and hardware platforms with little or no change in the underlying codebase.
+Qt is a free and open-source widget toolkit for creating graphical user interfaces as well as cross-platform applications that run on various software and hardware platforms with minimal to no changes in the underlying codebase.
 
-3D Triforce Emblem inspired from Legend of Zelda. The entire project was done in classic OpenGL using C++ in QT creator.
+This project involved creating a 3D Triforce Emblem inspired by the Legend of Zelda game series. Utilizing classic OpenGL and C++ language, the entire project was created within the QT Creator environment.
 
-The object itself consists of lighting and shaders. I have attached QSliders for users to play around with the lighting and angles of the object.
+The object consists of lighting and shaders, with QSliders available for users to adjust the lighting and angles of the object.
