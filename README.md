@@ -6,6 +6,6 @@ This project involved creating a 3D Triforce Emblem inspired by the Legend of Ze
 ## Sample
 <picture> <img align="centre" src="https://media.giphy.com/media/ZPIYAlVLpxWQLt3XBZ/giphy.gif" width = 550px></picture>
 
-### Tools Used:
+### Tools:
 1. QT Creator
 2. OpenGL
