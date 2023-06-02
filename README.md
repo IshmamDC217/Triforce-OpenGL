@@ -1,7 +1,7 @@
 # Triforce-OpenGL
 
 ## Introduction
-This project involved creating a 3D Triforce Emblem inspired by the Legend of Zelda game series. Utilizing classic OpenGL and C++ language, the entire project was created within the QT Creator environment. The object consists of lighting and shaders, with QSliders available for users to adjust the lighting and angles of the object.
+This project involved creating a 3D Triforce Emblem inspired by the Legend of Zelda game series. Utilizing classic (old school) OpenGL and C++ language, the entire project was created within the QT Creator environment. The object consists of lighting and shaders, with QSliders available for users to adjust the lighting and angles of the object.
 
 ## Sample
 ![Triforce-OpenGL Sample](https://media.giphy.com/media/ZPIYAlVLpxWQLt3XBZ/giphy.gif)
